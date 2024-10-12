@@ -14,4 +14,4 @@ Python 3.11
 1. Place the source data into the data/images folder (for training images) and the landmarks.csv file (for labels).
 2. Run data augmentation `python augment_data.py data/landmarks.csv data`
 3. Run `python train_source.py`
-4. Run `train_target.py`
+4. Run `python train_target.py`
